@@ -16,3 +16,5 @@ python scripts/evaluate.py
 - artifacts/metrics.json
 - artifacts/confusion_matrix.png
 - artifacts/report.json
+
+## Version: 1.0.1
